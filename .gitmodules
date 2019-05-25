@@ -1,0 +1,3 @@
+[submodule "ParticleMethods"]
+	path = ParticleMethods
+	url = https://github.com/runei/ParticleMethods.git
